@@ -2,8 +2,11 @@
   "app_config": {
     "__comment__": "GLOBAL APP SETTINGS",
     "maintenance": false,
-    "maintenance_msg": "Server is under maintenance! Please try again later.",
-    "global_version": "1.0"
+    "maintenance_msg": "🔧 Server is under maintenance! Please try again later.",
+    "global_version": "1.0",
+    "app_name": "Sanny Auth",
+    "developer": "Sanny King",
+    "support_group": "https://t.me/Sanny_king_zz"
   },
   "users": [
     {
@@ -13,11 +16,11 @@
       "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "renew_msg": "Your pack expired! Contact Admin to renew.",
+      "renew_msg": "💳 Your pack expired! Contact Admin to renew.",
       "renew_url": "https://t.me/Sanny_king_zz",
-      "personal_notice": "",
+      "personal_notice": "🎉 Welcome Sanny! You are our VIP member.",
       "required_version": "1.0",
-      "update_msg": "A new version is available! Please download it.",
+      "update_msg": "📱 New version 1.1 is available! Please update.",
       "update_url": "https://t.me/Sanny_king_zz/100"
     },
     {
@@ -27,7 +30,7 @@
       "key": "NEW_KEY_HERE",
       "status": "active",
       "expiry": "none",
-      "renew_msg": "Expired! Buy new pack.",
+      "renew_msg": "💳 Expired! Buy new pack.",
       "renew_url": "https://t.me/Sanny_king_zz",
       "personal_notice": "",
       "required_version": "1.0",
@@ -35,4 +38,5 @@
       "update_url": ""
     }
   ]
+}  ]
 }
