@@ -1,42 +1,77 @@
 {
   "app_config": {
-    "__comment__": "GLOBAL APP SETTINGS",
     "maintenance": false,
     "maintenance_msg": "🔧 Server is under maintenance! Please try again later.",
     "global_version": "1.0",
-    "app_name": "Sanny Auth",
+    "app_name": "Sanny Auth Premium",
     "developer": "Sanny King",
     "support_group": "https://t.me/Sanny_king_zz"
   },
   "users": [
     {
-      "__label__": "USER 1 (PRIMARY USER)",
       "id": "28ccf7adadc16dd5",
       "name": "Sanny User",
       "key": "SANNY-VIP-77",
       "status": "active",
       "expiry": "2026-12-31 23:59:59",
-      "renew_msg": "",
-      "renew_url": "",
-      "personal_notice": "",
-      "required_version": "1.2",
-      "update_msg": "📱 New version 1.1 is available! Please update.",
-      "update_url": "https://t.me/Sanny_king_zz/100"
+      "required_version": "1.0",
+      "personal_notice": "Welcome back Sanny!",
+      "update_msg": "New version available!",
+      "update_url": "https://t.me/Sanny_king_zz",
+      "renew_msg": "Your pack expired!",
+      "renew_url": "https://t.me/Sanny_king_zz"
     },
     {
-      "__label__": "USER 2 (EMPTY TEMPLATE)",
-      "id": "NEW_ID_HERE",
-      "name": "User Name",
-      "key": "NEW_KEY_HERE",
+      "id": "PUT_USER_2_DEVICE_ID_HERE",
+      "name": "User 2 Name",
+      "key": "KEY-USER-2",
       "status": "active",
       "expiry": "none",
-      "renew_msg": "💳 Expired! Buy new pack.",
-      "renew_url": "https://t.me/Sanny_king_zz",
-      "personal_notice": "",
       "required_version": "1.0",
+      "personal_notice": "",
       "update_msg": "",
-      "update_url": ""
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    },
+    {
+      "id": "PUT_USER_3_DEVICE_ID_HERE",
+      "name": "User 3 Name",
+      "key": "KEY-USER-3",
+      "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    },
+    {
+      "id": "PUT_USER_4_DEVICE_ID_HERE",
+      "name": "User 4 Name",
+      "key": "KEY-USER-4",
+      "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
+    },
+    {
+      "id": "PUT_USER_5_DEVICE_ID_HERE",
+      "name": "User 5 Name",
+      "key": "KEY-USER-5",
+      "status": "active",
+      "expiry": "none",
+      "required_version": "1.0",
+      "personal_notice": "",
+      "update_msg": "",
+      "update_url": "",
+      "renew_msg": "",
+      "renew_url": ""
     }
   ]
-}  ]
 }
