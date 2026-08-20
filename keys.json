@@ -1,10 +1,10 @@
 {
   "app_config": {
     "maintenance": false,
-    "maintenance_msg": "Server is under maintenance. Please try again later.",
+    "maintenance_msg": "Server is under maintenance. Please wait.",
     "latest_version": "1.0",
     "update_url": "https://t.me/Sanny_king_zz",
-    "global_notice": "Welcome to Sanny King VIP Tools!"
+    "global_notice": "Welcome to Sanny VIP!"
   },
   "users": [
     {
