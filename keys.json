@@ -8,7 +8,7 @@
   "users": [
     {
       "__label__": "USER 1 (PRIMARY USER)",
-      "id": "28ccf7adadc12dd5",
+      "id": "28ccf7adadc16dd5",
       "name": "Sanny User",
       "key": "SANNY-VIP-77",
       "status": "active",
@@ -16,7 +16,7 @@
       "renew_msg": "Your pack expired! Contact Admin to renew.",
       "renew_url": "https://t.me/Sanny_king_zz",
       "personal_notice": "Welcome to Sanny VIP Tools!",
-      "required_version": "1.0",
+      "required_version": "1.2",
       "update_msg": "A new version is available! Please download it.",
       "update_url": "https://t.me/Sanny_king_zz/100"
     },
