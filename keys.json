@@ -3,7 +3,7 @@
     "__comment__": "GLOBAL APP SETTINGS",
     "maintenance": false,
     "maintenance_msg": "Server is under maintenance! Please try again later.",
-    "global_version": "1.2"
+    "global_version": "1.0"
   },
   "users": [
     {
