@@ -1,1 +1,23 @@
-
+{
+  "app_config": {
+    "maintenance": false,
+    "maintenance_msg": "সার্ভার আপডেট চলছে, দয়া করে পরে চেষ্টা করুন।",
+    "latest_version": "1.0",
+    "update_url": "https://t.me/Sanny_king_zz",
+    "global_notice": "আমাদের VIP টুলসে স্বাগতম!"
+  },
+  "users": [
+    {
+      "id": "আপনার_ডিভাইস_আইডি",
+      "key": "VIP-77-SANNY",
+      "expiry": "2024-12-31",
+      "status": "active"
+    },
+    {
+      "id": "আরেকটি_আইডি",
+      "key": "FREE-SANNY-00",
+      "expiry": "2024-05-20",
+      "status": "banned"
+    }
+  ]
+}
