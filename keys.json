@@ -1,31 +1,35 @@
 {
   "app_config": {
+    "__comment__": "GLOBAL APP SETTINGS",
     "maintenance": false,
-    "maintenance_msg": "Server under maintenance!"
+    "maintenance_msg": "Server is under maintenance! Please try again later.",
+    "global_version": "1.0"
   },
   "users": [
     {
+      "__label__": "USER 1 (PRIMARY USER)",
       "id": "28ccf7adadc16dd5",
       "name": "Sanny User",
       "key": "SANNY-VIP-77",
       "status": "active",
-      "expiry": "2024-05-30 23:59:59", 
-      "renew_msg": "Your 7-day pack has expired. To buy a new pack, contact admin.",
+      "expiry": "2026-12-31 23:59:59",
+      "renew_msg": "Your pack expired! Contact Admin to renew.",
       "renew_url": "https://t.me/Sanny_king_zz",
-      "personal_notice": "Welcome! You are using our premium service.", 
+      "personal_notice": "Welcome to Sanny VIP Tools!",
       "required_version": "1.0",
-      "update_msg": "Important update available! You must download the new version to continue.",
-      "update_url": "https://t.me/Sanny_king_zz/500"
+      "update_msg": "A new version is available! Please download it.",
+      "update_url": "https://t.me/Sanny_king_zz/100"
     },
     {
-      "id": "নতুন_ডিভাইস_আইডি_এখানে",
-      "name": "ইউজারের নাম",
-      "key": "নতুন_কি_এখানে",
+      "__label__": "USER 2 (EMPTY TEMPLATE)",
+      "id": "NEW_ID_HERE",
+      "name": "User Name",
+      "key": "NEW_KEY_HERE",
       "status": "active",
-      "expiry": "none", 
-      "renew_msg": "",
+      "expiry": "none",
+      "renew_msg": "Expired! Buy new pack.",
       "renew_url": "https://t.me/Sanny_king_zz",
-      "personal_notice": "", 
+      "personal_notice": "",
       "required_version": "1.0",
       "update_msg": "",
       "update_url": ""
