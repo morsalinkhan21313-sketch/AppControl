@@ -1,17 +1,34 @@
 {
   "app_config": {
     "maintenance": false,
-    "maintenance_msg": "Server is under maintenance. Please wait.",
-    "latest_version": "1.0",
-    "update_url": "https://t.me/Sanny_king_zz",
-    "global_notice": "Welcome to Sanny VIP!"
+    "maintenance_msg": "Server under maintenance!"
   },
   "users": [
     {
       "id": "28ccf7adadc16dd5",
-      "key": "SANNY-PRO-77",
-      "expiry": "2026-12-31",
-      "status": "banned"
+      "name": "Sanny User",
+      "key": "SANNY-VIP-77",
+      "status": "active",
+      "expiry": "2024-05-30 23:59:59", 
+      "renew_msg": "Your 7-day pack has expired. To buy a new pack, contact admin.",
+      "renew_url": "https://t.me/Sanny_king_zz",
+      "personal_notice": "Welcome! You are using our premium service.", 
+      "required_version": "1.0",
+      "update_msg": "Important update available! You must download the new version to continue.",
+      "update_url": "https://t.me/Sanny_king_zz/500"
+    },
+    {
+      "id": "নতুন_ডিভাইস_আইডি_এখানে",
+      "name": "ইউজারের নাম",
+      "key": "নতুন_কি_এখানে",
+      "status": "active",
+      "expiry": "none", 
+      "renew_msg": "",
+      "renew_url": "https://t.me/Sanny_king_zz",
+      "personal_notice": "", 
+      "required_version": "1.0",
+      "update_msg": "",
+      "update_url": ""
     }
   ]
 }
