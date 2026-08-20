@@ -13,8 +13,8 @@
       "required_version": "1.0",
       "update_msg": "New update is here! Click update button to download.",
       "update_url": "https://t.me/Sanny_king_zz",
-      "renew_msg": "Your pack expired. Please renew.",
-      "renew_url": "https://t.me/Sanny_king_zz"
+      "renew_msg": "",
+      "renew_url": ""
     },
     {
       "id": "USER_ID_2_HERE",
